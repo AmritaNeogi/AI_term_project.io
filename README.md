@@ -1,2 +1,3 @@
 # AI_term_project.io
-This is an AI project
+
+Using Q-Learning to solve the CartPole balancing problem.
